@@ -1,0 +1,13 @@
+.vs/
+build/
+out/
+vcpkg_installed/
+package/
+releases/
+*.dll
+*.exe
+*.obj
+*.pdb
+*.lib
+*.exp
+*.ilk
